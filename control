@@ -2,7 +2,7 @@ Package: daniel.batman
 Name: Batman
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Yes, father. I shall become a bat.
+Description: Display much more battery information
 Maintainer: daniel
 Author: daniel
 Section: Tweaks
