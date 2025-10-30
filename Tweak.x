@@ -5,6 +5,7 @@
 
 %hook BatteryUIController
 
+// return 2 = Show Daemons, return 3 = Show Everything
 - (int)BUI_MODE {
     return 2;
 }
@@ -21,8 +22,9 @@
     return 2;
 }
 
+// same as BUI_MODE
 - (int)batteryUIQueryType {
-    return 4;
+    return 2;
 }
 
 %end
