@@ -7,7 +7,7 @@
 
 // return 2 = Show Daemons, return 3 = Show Everything
 - (int)BUI_MODE {
-    return 2;
+    return 3;
 }
 
 - (BOOL)showRootNodesInInternal {
@@ -24,7 +24,7 @@
 
 // same as BUI_MODE
 - (int)batteryUIQueryType {
-    return 2;
+    return 3;
 }
 
 %end

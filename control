@@ -1,6 +1,6 @@
 Package: daniel.batman
 Name: Batman
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Display much more battery information
 Maintainer: daniel
